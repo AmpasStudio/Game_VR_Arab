@@ -1,0 +1,2143 @@
+fileFormatVersion: 2
+guid: 44b41b73be98d0a4d8468bb2b33ffbe5
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Adek.Ky.P
+    100002: Adek.P
+    100004: Aki.Mobil
+    100006: Akuarium
+    100008: Atap Lt 1
+    100010: Atap Lt 2
+    100012: Ayunan
+    100014: Baju_1
+    100016: Baju_2
+    100018: Baju_3
+    100020: Bak.Cuci.Mandi
+    100022: Bak.Mandi
+    100024: Ban
+    100026: Ban.Dalam
+    100028: Ban.Dalam2
+    100030: Ban.Dalam3
+    100032: Ban.Dalam4
+    100034: Bantal
+    100036: Bantal.Ortu
+    100038: Batu.Pijak
+    100040: Baut
+    100042: Baut2
+    100044: Bawahan Tangga
+    100046: Bensin
+    100048: Buku
+    100050: Buku.Belajar
+    100052: Buku.Belajar2
+    100054: Buku.Belajar3
+    100056: Buku2
+    100058: Bunga.Taman
+    100060: Camera
+    100062: Cermin.KM
+    100064: Cermin.Mandi
+    100066: Cucian.Ky
+    100068: Cucian.P
+    100070: Denah.Lt1
+    100072: Denah.Lt2
+    100074: //RootNode
+    100076: Dinding.Atas
+    100078: Dinding.Depan
+    100080: Dinding.Keramik.Lt1
+    100082: Dongkrak
+    100084: Foto
+    100086: Garam
+    100088: Garasi.K
+    100090: Garasi.P
+    100092: Gelas
+    100094: Gelas.Pensil
+    100096: Gelas2
+    100098: Gudang.K
+    100100: Gudang.P
+    100102: Gula
+    100104: Hanger
+    100106: Hemi
+    100108: Interior.Mobil
+    100110: Ipod
+    100112: Jam
+    100114: Jam2
+    100116: Jendela.Kc.Adek
+    100118: Jendela.Kc.Dapur
+    100120: Jendela.Kc.Garasi
+    100122: Jendela.Kc.Kk
+    100124: Jendela.Kc.M
+    100126: Jendela.Kc.M2
+    100128: Jendela.Kc.M3
+    100130: Jendela.Kc.Ortu
+    100132: Jendela.Ky.Adek
+    100134: Jendela.Ky.Dapur
+    100136: Jendela.Ky.Garasi
+    100138: Jendela.Ky.Kk
+    100140: Jendela.Ky.M
+    100142: Jendela.Ky.M.001
+    100144: Jendela.Ky.M2
+    100146: Jendela.Ky.Ortu
+    100148: Jungkat
+    100150: Kaca.Mobil.Belakang
+    100152: Kaca.Mobil.Depan
+    100154: Kaca.Mobil.Kanan
+    100156: Kaca.Mobil.Kiri
+    100158: Kaca.Mobil.Samping
+    100160: Kain.Lap
+    100162: Kakak.Ky.P
+    100164: Kakak.P
+    100166: Karpet.Makan
+    100168: Karpet.Ortu
+    100170: Karpet.Santai
+    100172: Karpet.Tv
+    100174: Kasur
+    100176: Kolam
+    100178: Kolam.Air
+    100180: Kotak Pensil
+    100182: Kotak.Pencil
+    100184: Kulkas
+    100186: Kunci.Inggris1
+    100188: Kunci.Inggris2
+    100190: Kunci.Inggris3
+    100192: Kursi Belajar
+    100194: Kursi.Belajar
+    100196: Kursi.Garasi
+    100198: Kursi.Makan1
+    100200: Kursi.Makan2
+    100202: Kursi.Makan3
+    100204: Kursi.Makan4
+    100206: Kursi.Makan5
+    100208: Kursi.Makan6
+    100210: Kursi.Sofa
+    100212: Kursi.Sofa2
+    100214: Kursi.Sofa3
+    100216: Kursi.Taman
+    100218: Kursi.Tamu
+    100220: Kursi.Tamu.1
+    100222: Kursi.Tamu.2
+    100224: Kursi.Tamu.2K
+    100226: Kursi.Tamu.3
+    100228: Lamp
+    100230: Lampu.Belajar
+    100232: Lampu.Mandi
+    100234: Lampu.mandi2
+    100236: Lampu.Mobil.Belakang
+    100238: Lampu.Mobil.Depan
+    100240: Lampu.Tidur
+    100242: Lampu.Tidur2
+    100244: Lantai 1
+    100246: Lantai 2
+    100248: Lemari
+    100250: Lemari.Dapur
+    100252: Lemari.Garasi.Atas
+    100254: Lemari.Garasi.Bawah
+    100256: Lemari.Ikan
+    100258: Lemari.Kamar.B
+    100260: Lemari.Kamar.K
+    100262: Lemari.Santai
+    100264: Lemari.Tengah
+    100266: Loyang
+    100268: Lukisa.Besar2
+    100270: Lukisa.Besar3
+    100272: Lukisan.Besar
+    100274: Lukisan.Kecil
+    100276: Lukisan.Kecil2
+    100278: Lukisan.Kecil3
+    100280: Lukisan.Kecil4
+    100282: Lukisan.Sedang
+    100284: Lukisan.Sedang2
+    100286: Lukisan.Sedang3
+    100288: Mandi.ky.Atas
+    100290: Mandi.Ky.Ortu
+    100292: Mandi.Ky.Santai
+    100294: Mandi.P.Atas
+    100296: Mandi.P.Ortu
+    100298: Mandi.P.Santai
+    100300: Meja Belajar
+    100302: Meja.Belajar
+    100304: Meja.Dapur
+    100306: Meja.Lampu
+    100308: Meja.Lampu2
+    100310: Meja.Makan
+    100312: Meja.Santai
+    100314: Meja.Tamu.B
+    100316: Meja.Tamu.K
+    100318: Meja.Tv
+    100320: Mentega
+    100322: Mobil
+    100324: Obeng
+    100326: Obeng2
+    100328: Oli
+    100330: Ortu.K
+    100332: Ortu.P
+    100334: Oven
+    100336: Pagar.Atap
+    100338: Pagar.Atap.Tangga
+    100340: Pagar.Kayu.Luar
+    100342: Pagar.Luar
+    100344: PagarTangga.Atas
+    100346: PagarTangga.B
+    100348: Palu
+    100350: Pensil
+    100352: Perosotan
+    100354: Piala
+    100356: Pin.Ban1
+    100358: Pin.Ban2
+    100360: Pin.Ban3
+    100362: Pin.Ban4
+    100364: Pin.Kunci.Inggris1
+    100366: Pin.Kunci.Inggris2
+    100368: Pin.Kunci.Inggris3
+    100370: Pin.Palu
+    100372: Pin.Palu2
+    100374: Pintu.K.B.L
+    100376: Pintu.K.B.R
+    100378: Pintu.K.Krg.L
+    100380: Pintu.K.Krg.R
+    100382: Pintu.Kc.C.L
+    100384: Pintu.Kc.C.R
+    100386: Pintu.Kc.D.L
+    100388: Pintu.Kc.D.R
+    100390: Pintu.Ky.Blkng
+    100392: Pintu.Ky.Cucian
+    100394: Pintu.Ky.Depan
+    100396: Pintu.Ky.Keluarga
+    100398: Pintu.Lemari.Ikan.L
+    100400: Pintu.Lemari.Ikan.R
+    100402: Pintu.Luar
+    100404: Pintu.Mobil
+    100406: Pintu.Mobil2
+    100408: Piring
+    100410: Pot.Baseball
+    100412: Pot.Bunga
+    100414: Pot.Bunga2
+    100416: Pot.Bunga3
+    100418: Pot.Payung
+    100420: Radio
+    100422: Ruang.KM
+    100424: Ruang.KM.Kaca
+    100426: Sendok
+    100428: Sendok2
+    100430: Sendok3
+    100432: Sepatu
+    100434: Sepatu Basket
+    100436: Seragam.Sekolah
+    100438: Shower.Mandi
+    100440: Stir
+    100442: Tamu.K
+    100444: Tamu.P
+    100446: Tanah
+    100448: Tangga 1
+    100450: Tangga 2
+    100452: Tangga.Blkng
+    100454: Tas
+    100456: Telur1
+    100458: Telur2
+    100460: Telur3
+    100462: Telur4
+    100464: Telur5
+    100466: Tempat.Baut
+    100468: Tempat.Sendok
+    100470: Tepungterigu
+    100472: TexturesCom_Branches0010_1_alphamasked_S.000
+    100474: TexturesCom_Branches0010_1_alphamasked_S.001
+    100476: TexturesCom_Branches0010_1_alphamasked_S.002
+    100478: TexturesCom_Branches0013_1_alphamasked_S.000
+    100480: TexturesCom_Branches0013_1_alphamasked_S.002
+    100482: Tirai.Mandi
+    100484: Tv
+    100486: Wadah.Cermin.Mandi
+    100488: Wadah.Telur
+    100490: Wastafel
+    100492: Wc
+    100494: Wc2
+    400000: Adek.Ky.P
+    400002: Adek.P
+    400004: Aki.Mobil
+    400006: Akuarium
+    400008: Atap Lt 1
+    400010: Atap Lt 2
+    400012: Ayunan
+    400014: Baju_1
+    400016: Baju_2
+    400018: Baju_3
+    400020: Bak.Cuci.Mandi
+    400022: Bak.Mandi
+    400024: Ban
+    400026: Ban.Dalam
+    400028: Ban.Dalam2
+    400030: Ban.Dalam3
+    400032: Ban.Dalam4
+    400034: Bantal
+    400036: Bantal.Ortu
+    400038: Batu.Pijak
+    400040: Baut
+    400042: Baut2
+    400044: Bawahan Tangga
+    400046: Bensin
+    400048: Buku
+    400050: Buku.Belajar
+    400052: Buku.Belajar2
+    400054: Buku.Belajar3
+    400056: Buku2
+    400058: Bunga.Taman
+    400060: Camera
+    400062: Cermin.KM
+    400064: Cermin.Mandi
+    400066: Cucian.Ky
+    400068: Cucian.P
+    400070: Denah.Lt1
+    400072: Denah.Lt2
+    400074: //RootNode
+    400076: Dinding.Atas
+    400078: Dinding.Depan
+    400080: Dinding.Keramik.Lt1
+    400082: Dongkrak
+    400084: Foto
+    400086: Garam
+    400088: Garasi.K
+    400090: Garasi.P
+    400092: Gelas
+    400094: Gelas.Pensil
+    400096: Gelas2
+    400098: Gudang.K
+    400100: Gudang.P
+    400102: Gula
+    400104: Hanger
+    400106: Hemi
+    400108: Interior.Mobil
+    400110: Ipod
+    400112: Jam
+    400114: Jam2
+    400116: Jendela.Kc.Adek
+    400118: Jendela.Kc.Dapur
+    400120: Jendela.Kc.Garasi
+    400122: Jendela.Kc.Kk
+    400124: Jendela.Kc.M
+    400126: Jendela.Kc.M2
+    400128: Jendela.Kc.M3
+    400130: Jendela.Kc.Ortu
+    400132: Jendela.Ky.Adek
+    400134: Jendela.Ky.Dapur
+    400136: Jendela.Ky.Garasi
+    400138: Jendela.Ky.Kk
+    400140: Jendela.Ky.M
+    400142: Jendela.Ky.M.001
+    400144: Jendela.Ky.M2
+    400146: Jendela.Ky.Ortu
+    400148: Jungkat
+    400150: Kaca.Mobil.Belakang
+    400152: Kaca.Mobil.Depan
+    400154: Kaca.Mobil.Kanan
+    400156: Kaca.Mobil.Kiri
+    400158: Kaca.Mobil.Samping
+    400160: Kain.Lap
+    400162: Kakak.Ky.P
+    400164: Kakak.P
+    400166: Karpet.Makan
+    400168: Karpet.Ortu
+    400170: Karpet.Santai
+    400172: Karpet.Tv
+    400174: Kasur
+    400176: Kolam
+    400178: Kolam.Air
+    400180: Kotak Pensil
+    400182: Kotak.Pencil
+    400184: Kulkas
+    400186: Kunci.Inggris1
+    400188: Kunci.Inggris2
+    400190: Kunci.Inggris3
+    400192: Kursi Belajar
+    400194: Kursi.Belajar
+    400196: Kursi.Garasi
+    400198: Kursi.Makan1
+    400200: Kursi.Makan2
+    400202: Kursi.Makan3
+    400204: Kursi.Makan4
+    400206: Kursi.Makan5
+    400208: Kursi.Makan6
+    400210: Kursi.Sofa
+    400212: Kursi.Sofa2
+    400214: Kursi.Sofa3
+    400216: Kursi.Taman
+    400218: Kursi.Tamu
+    400220: Kursi.Tamu.1
+    400222: Kursi.Tamu.2
+    400224: Kursi.Tamu.2K
+    400226: Kursi.Tamu.3
+    400228: Lamp
+    400230: Lampu.Belajar
+    400232: Lampu.Mandi
+    400234: Lampu.mandi2
+    400236: Lampu.Mobil.Belakang
+    400238: Lampu.Mobil.Depan
+    400240: Lampu.Tidur
+    400242: Lampu.Tidur2
+    400244: Lantai 1
+    400246: Lantai 2
+    400248: Lemari
+    400250: Lemari.Dapur
+    400252: Lemari.Garasi.Atas
+    400254: Lemari.Garasi.Bawah
+    400256: Lemari.Ikan
+    400258: Lemari.Kamar.B
+    400260: Lemari.Kamar.K
+    400262: Lemari.Santai
+    400264: Lemari.Tengah
+    400266: Loyang
+    400268: Lukisa.Besar2
+    400270: Lukisa.Besar3
+    400272: Lukisan.Besar
+    400274: Lukisan.Kecil
+    400276: Lukisan.Kecil2
+    400278: Lukisan.Kecil3
+    400280: Lukisan.Kecil4
+    400282: Lukisan.Sedang
+    400284: Lukisan.Sedang2
+    400286: Lukisan.Sedang3
+    400288: Mandi.ky.Atas
+    400290: Mandi.Ky.Ortu
+    400292: Mandi.Ky.Santai
+    400294: Mandi.P.Atas
+    400296: Mandi.P.Ortu
+    400298: Mandi.P.Santai
+    400300: Meja Belajar
+    400302: Meja.Belajar
+    400304: Meja.Dapur
+    400306: Meja.Lampu
+    400308: Meja.Lampu2
+    400310: Meja.Makan
+    400312: Meja.Santai
+    400314: Meja.Tamu.B
+    400316: Meja.Tamu.K
+    400318: Meja.Tv
+    400320: Mentega
+    400322: Mobil
+    400324: Obeng
+    400326: Obeng2
+    400328: Oli
+    400330: Ortu.K
+    400332: Ortu.P
+    400334: Oven
+    400336: Pagar.Atap
+    400338: Pagar.Atap.Tangga
+    400340: Pagar.Kayu.Luar
+    400342: Pagar.Luar
+    400344: PagarTangga.Atas
+    400346: PagarTangga.B
+    400348: Palu
+    400350: Pensil
+    400352: Perosotan
+    400354: Piala
+    400356: Pin.Ban1
+    400358: Pin.Ban2
+    400360: Pin.Ban3
+    400362: Pin.Ban4
+    400364: Pin.Kunci.Inggris1
+    400366: Pin.Kunci.Inggris2
+    400368: Pin.Kunci.Inggris3
+    400370: Pin.Palu
+    400372: Pin.Palu2
+    400374: Pintu.K.B.L
+    400376: Pintu.K.B.R
+    400378: Pintu.K.Krg.L
+    400380: Pintu.K.Krg.R
+    400382: Pintu.Kc.C.L
+    400384: Pintu.Kc.C.R
+    400386: Pintu.Kc.D.L
+    400388: Pintu.Kc.D.R
+    400390: Pintu.Ky.Blkng
+    400392: Pintu.Ky.Cucian
+    400394: Pintu.Ky.Depan
+    400396: Pintu.Ky.Keluarga
+    400398: Pintu.Lemari.Ikan.L
+    400400: Pintu.Lemari.Ikan.R
+    400402: Pintu.Luar
+    400404: Pintu.Mobil
+    400406: Pintu.Mobil2
+    400408: Piring
+    400410: Pot.Baseball
+    400412: Pot.Bunga
+    400414: Pot.Bunga2
+    400416: Pot.Bunga3
+    400418: Pot.Payung
+    400420: Radio
+    400422: Ruang.KM
+    400424: Ruang.KM.Kaca
+    400426: Sendok
+    400428: Sendok2
+    400430: Sendok3
+    400432: Sepatu
+    400434: Sepatu Basket
+    400436: Seragam.Sekolah
+    400438: Shower.Mandi
+    400440: Stir
+    400442: Tamu.K
+    400444: Tamu.P
+    400446: Tanah
+    400448: Tangga 1
+    400450: Tangga 2
+    400452: Tangga.Blkng
+    400454: Tas
+    400456: Telur1
+    400458: Telur2
+    400460: Telur3
+    400462: Telur4
+    400464: Telur5
+    400466: Tempat.Baut
+    400468: Tempat.Sendok
+    400470: Tepungterigu
+    400472: TexturesCom_Branches0010_1_alphamasked_S.000
+    400474: TexturesCom_Branches0010_1_alphamasked_S.001
+    400476: TexturesCom_Branches0010_1_alphamasked_S.002
+    400478: TexturesCom_Branches0013_1_alphamasked_S.000
+    400480: TexturesCom_Branches0013_1_alphamasked_S.002
+    400482: Tirai.Mandi
+    400484: Tv
+    400486: Wadah.Cermin.Mandi
+    400488: Wadah.Telur
+    400490: Wastafel
+    400492: Wc
+    400494: Wc2
+    2000000: Camera
+    2300000: Adek.Ky.P
+    2300002: Adek.P
+    2300004: Aki.Mobil
+    2300006: Akuarium
+    2300008: Atap Lt 1
+    2300010: Atap Lt 2
+    2300012: Ayunan
+    2300014: Baju_1
+    2300016: Baju_2
+    2300018: Baju_3
+    2300020: Bak.Cuci.Mandi
+    2300022: Bak.Mandi
+    2300024: Ban
+    2300026: Ban.Dalam
+    2300028: Ban.Dalam2
+    2300030: Ban.Dalam3
+    2300032: Ban.Dalam4
+    2300034: Bantal
+    2300036: Bantal.Ortu
+    2300038: Batu.Pijak
+    2300040: Baut
+    2300042: Baut2
+    2300044: Bawahan Tangga
+    2300046: Bensin
+    2300048: Buku
+    2300050: Buku.Belajar
+    2300052: Buku.Belajar2
+    2300054: Buku.Belajar3
+    2300056: Buku2
+    2300058: Bunga.Taman
+    2300060: Cermin.KM
+    2300062: Cermin.Mandi
+    2300064: Cucian.Ky
+    2300066: Cucian.P
+    2300068: Denah.Lt1
+    2300070: Denah.Lt2
+    2300072: Dinding.Atas
+    2300074: Dinding.Depan
+    2300076: Dinding.Keramik.Lt1
+    2300078: Dongkrak
+    2300080: Foto
+    2300082: Garam
+    2300084: Garasi.K
+    2300086: Garasi.P
+    2300088: Gelas
+    2300090: Gelas.Pensil
+    2300092: Gelas2
+    2300094: Gudang.K
+    2300096: Gudang.P
+    2300098: Gula
+    2300100: Hanger
+    2300102: Interior.Mobil
+    2300104: Ipod
+    2300106: Jam
+    2300108: Jam2
+    2300110: Jendela.Kc.Adek
+    2300112: Jendela.Kc.Dapur
+    2300114: Jendela.Kc.Garasi
+    2300116: Jendela.Kc.Kk
+    2300118: Jendela.Kc.M
+    2300120: Jendela.Kc.M2
+    2300122: Jendela.Kc.M3
+    2300124: Jendela.Kc.Ortu
+    2300126: Jendela.Ky.Adek
+    2300128: Jendela.Ky.Dapur
+    2300130: Jendela.Ky.Garasi
+    2300132: Jendela.Ky.Kk
+    2300134: Jendela.Ky.M
+    2300136: Jendela.Ky.M.001
+    2300138: Jendela.Ky.M2
+    2300140: Jendela.Ky.Ortu
+    2300142: Jungkat
+    2300144: Kaca.Mobil.Belakang
+    2300146: Kaca.Mobil.Depan
+    2300148: Kaca.Mobil.Kanan
+    2300150: Kaca.Mobil.Kiri
+    2300152: Kaca.Mobil.Samping
+    2300154: Kain.Lap
+    2300156: Kakak.Ky.P
+    2300158: Kakak.P
+    2300160: Karpet.Makan
+    2300162: Karpet.Ortu
+    2300164: Karpet.Santai
+    2300166: Karpet.Tv
+    2300168: Kasur
+    2300170: Kolam
+    2300172: Kolam.Air
+    2300174: Kotak Pensil
+    2300176: Kotak.Pencil
+    2300178: Kulkas
+    2300180: Kunci.Inggris1
+    2300182: Kunci.Inggris2
+    2300184: Kunci.Inggris3
+    2300186: Kursi Belajar
+    2300188: Kursi.Belajar
+    2300190: Kursi.Garasi
+    2300192: Kursi.Makan1
+    2300194: Kursi.Makan2
+    2300196: Kursi.Makan3
+    2300198: Kursi.Makan4
+    2300200: Kursi.Makan5
+    2300202: Kursi.Makan6
+    2300204: Kursi.Sofa
+    2300206: Kursi.Sofa2
+    2300208: Kursi.Sofa3
+    2300210: Kursi.Taman
+    2300212: Kursi.Tamu
+    2300214: Kursi.Tamu.1
+    2300216: Kursi.Tamu.2
+    2300218: Kursi.Tamu.2K
+    2300220: Kursi.Tamu.3
+    2300222: Lampu.Belajar
+    2300224: Lampu.Mandi
+    2300226: Lampu.mandi2
+    2300228: Lampu.Mobil.Belakang
+    2300230: Lampu.Mobil.Depan
+    2300232: Lampu.Tidur
+    2300234: Lampu.Tidur2
+    2300236: Lantai 1
+    2300238: Lantai 2
+    2300240: Lemari
+    2300242: Lemari.Dapur
+    2300244: Lemari.Garasi.Atas
+    2300246: Lemari.Garasi.Bawah
+    2300248: Lemari.Ikan
+    2300250: Lemari.Kamar.B
+    2300252: Lemari.Kamar.K
+    2300254: Lemari.Santai
+    2300256: Lemari.Tengah
+    2300258: Loyang
+    2300260: Lukisa.Besar2
+    2300262: Lukisa.Besar3
+    2300264: Lukisan.Besar
+    2300266: Lukisan.Kecil
+    2300268: Lukisan.Kecil2
+    2300270: Lukisan.Kecil3
+    2300272: Lukisan.Kecil4
+    2300274: Lukisan.Sedang
+    2300276: Lukisan.Sedang2
+    2300278: Lukisan.Sedang3
+    2300280: Mandi.ky.Atas
+    2300282: Mandi.Ky.Ortu
+    2300284: Mandi.Ky.Santai
+    2300286: Mandi.P.Atas
+    2300288: Mandi.P.Ortu
+    2300290: Mandi.P.Santai
+    2300292: Meja Belajar
+    2300294: Meja.Belajar
+    2300296: Meja.Dapur
+    2300298: Meja.Lampu
+    2300300: Meja.Lampu2
+    2300302: Meja.Makan
+    2300304: Meja.Santai
+    2300306: Meja.Tamu.B
+    2300308: Meja.Tamu.K
+    2300310: Meja.Tv
+    2300312: Mentega
+    2300314: Mobil
+    2300316: Obeng
+    2300318: Obeng2
+    2300320: Oli
+    2300322: Ortu.K
+    2300324: Ortu.P
+    2300326: Oven
+    2300328: Pagar.Atap
+    2300330: Pagar.Atap.Tangga
+    2300332: Pagar.Kayu.Luar
+    2300334: Pagar.Luar
+    2300336: PagarTangga.Atas
+    2300338: PagarTangga.B
+    2300340: Palu
+    2300342: Pensil
+    2300344: Perosotan
+    2300346: Piala
+    2300348: Pin.Ban1
+    2300350: Pin.Ban2
+    2300352: Pin.Ban3
+    2300354: Pin.Ban4
+    2300356: Pin.Kunci.Inggris1
+    2300358: Pin.Kunci.Inggris2
+    2300360: Pin.Kunci.Inggris3
+    2300362: Pin.Palu
+    2300364: Pin.Palu2
+    2300366: Pintu.K.B.L
+    2300368: Pintu.K.B.R
+    2300370: Pintu.K.Krg.L
+    2300372: Pintu.K.Krg.R
+    2300374: Pintu.Kc.C.L
+    2300376: Pintu.Kc.C.R
+    2300378: Pintu.Kc.D.L
+    2300380: Pintu.Kc.D.R
+    2300382: Pintu.Ky.Blkng
+    2300384: Pintu.Ky.Cucian
+    2300386: Pintu.Ky.Depan
+    2300388: Pintu.Ky.Keluarga
+    2300390: Pintu.Lemari.Ikan.L
+    2300392: Pintu.Lemari.Ikan.R
+    2300394: Pintu.Luar
+    2300396: Pintu.Mobil
+    2300398: Pintu.Mobil2
+    2300400: Piring
+    2300402: Pot.Baseball
+    2300404: Pot.Bunga
+    2300406: Pot.Bunga2
+    2300408: Pot.Bunga3
+    2300410: Pot.Payung
+    2300412: Radio
+    2300414: Ruang.KM
+    2300416: Ruang.KM.Kaca
+    2300418: Sendok
+    2300420: Sendok2
+    2300422: Sendok3
+    2300424: Sepatu
+    2300426: Sepatu Basket
+    2300428: Seragam.Sekolah
+    2300430: Shower.Mandi
+    2300432: Stir
+    2300434: Tamu.K
+    2300436: Tamu.P
+    2300438: Tanah
+    2300440: Tangga 1
+    2300442: Tangga 2
+    2300444: Tangga.Blkng
+    2300446: Tas
+    2300448: Telur1
+    2300450: Telur2
+    2300452: Telur3
+    2300454: Telur4
+    2300456: Telur5
+    2300458: Tempat.Baut
+    2300460: Tempat.Sendok
+    2300462: Tepungterigu
+    2300464: TexturesCom_Branches0010_1_alphamasked_S.000
+    2300466: TexturesCom_Branches0010_1_alphamasked_S.001
+    2300468: TexturesCom_Branches0010_1_alphamasked_S.002
+    2300470: TexturesCom_Branches0013_1_alphamasked_S.000
+    2300472: TexturesCom_Branches0013_1_alphamasked_S.002
+    2300474: Tirai.Mandi
+    2300476: Tv
+    2300478: Wadah.Cermin.Mandi
+    2300480: Wadah.Telur
+    2300482: Wastafel
+    2300484: Wc
+    2300486: Wc2
+    3300000: Adek.Ky.P
+    3300002: Adek.P
+    3300004: Aki.Mobil
+    3300006: Akuarium
+    3300008: Atap Lt 1
+    3300010: Atap Lt 2
+    3300012: Ayunan
+    3300014: Baju_1
+    3300016: Baju_2
+    3300018: Baju_3
+    3300020: Bak.Cuci.Mandi
+    3300022: Bak.Mandi
+    3300024: Ban
+    3300026: Ban.Dalam
+    3300028: Ban.Dalam2
+    3300030: Ban.Dalam3
+    3300032: Ban.Dalam4
+    3300034: Bantal
+    3300036: Bantal.Ortu
+    3300038: Batu.Pijak
+    3300040: Baut
+    3300042: Baut2
+    3300044: Bawahan Tangga
+    3300046: Bensin
+    3300048: Buku
+    3300050: Buku.Belajar
+    3300052: Buku.Belajar2
+    3300054: Buku.Belajar3
+    3300056: Buku2
+    3300058: Bunga.Taman
+    3300060: Cermin.KM
+    3300062: Cermin.Mandi
+    3300064: Cucian.Ky
+    3300066: Cucian.P
+    3300068: Denah.Lt1
+    3300070: Denah.Lt2
+    3300072: Dinding.Atas
+    3300074: Dinding.Depan
+    3300076: Dinding.Keramik.Lt1
+    3300078: Dongkrak
+    3300080: Foto
+    3300082: Garam
+    3300084: Garasi.K
+    3300086: Garasi.P
+    3300088: Gelas
+    3300090: Gelas.Pensil
+    3300092: Gelas2
+    3300094: Gudang.K
+    3300096: Gudang.P
+    3300098: Gula
+    3300100: Hanger
+    3300102: Interior.Mobil
+    3300104: Ipod
+    3300106: Jam
+    3300108: Jam2
+    3300110: Jendela.Kc.Adek
+    3300112: Jendela.Kc.Dapur
+    3300114: Jendela.Kc.Garasi
+    3300116: Jendela.Kc.Kk
+    3300118: Jendela.Kc.M
+    3300120: Jendela.Kc.M2
+    3300122: Jendela.Kc.M3
+    3300124: Jendela.Kc.Ortu
+    3300126: Jendela.Ky.Adek
+    3300128: Jendela.Ky.Dapur
+    3300130: Jendela.Ky.Garasi
+    3300132: Jendela.Ky.Kk
+    3300134: Jendela.Ky.M
+    3300136: Jendela.Ky.M.001
+    3300138: Jendela.Ky.M2
+    3300140: Jendela.Ky.Ortu
+    3300142: Jungkat
+    3300144: Kaca.Mobil.Belakang
+    3300146: Kaca.Mobil.Depan
+    3300148: Kaca.Mobil.Kanan
+    3300150: Kaca.Mobil.Kiri
+    3300152: Kaca.Mobil.Samping
+    3300154: Kain.Lap
+    3300156: Kakak.Ky.P
+    3300158: Kakak.P
+    3300160: Karpet.Makan
+    3300162: Karpet.Ortu
+    3300164: Karpet.Santai
+    3300166: Karpet.Tv
+    3300168: Kasur
+    3300170: Kolam
+    3300172: Kolam.Air
+    3300174: Kotak Pensil
+    3300176: Kotak.Pencil
+    3300178: Kulkas
+    3300180: Kunci.Inggris1
+    3300182: Kunci.Inggris2
+    3300184: Kunci.Inggris3
+    3300186: Kursi Belajar
+    3300188: Kursi.Belajar
+    3300190: Kursi.Garasi
+    3300192: Kursi.Makan1
+    3300194: Kursi.Makan2
+    3300196: Kursi.Makan3
+    3300198: Kursi.Makan4
+    3300200: Kursi.Makan5
+    3300202: Kursi.Makan6
+    3300204: Kursi.Sofa
+    3300206: Kursi.Sofa2
+    3300208: Kursi.Sofa3
+    3300210: Kursi.Taman
+    3300212: Kursi.Tamu
+    3300214: Kursi.Tamu.1
+    3300216: Kursi.Tamu.2
+    3300218: Kursi.Tamu.2K
+    3300220: Kursi.Tamu.3
+    3300222: Lampu.Belajar
+    3300224: Lampu.Mandi
+    3300226: Lampu.mandi2
+    3300228: Lampu.Mobil.Belakang
+    3300230: Lampu.Mobil.Depan
+    3300232: Lampu.Tidur
+    3300234: Lampu.Tidur2
+    3300236: Lantai 1
+    3300238: Lantai 2
+    3300240: Lemari
+    3300242: Lemari.Dapur
+    3300244: Lemari.Garasi.Atas
+    3300246: Lemari.Garasi.Bawah
+    3300248: Lemari.Ikan
+    3300250: Lemari.Kamar.B
+    3300252: Lemari.Kamar.K
+    3300254: Lemari.Santai
+    3300256: Lemari.Tengah
+    3300258: Loyang
+    3300260: Lukisa.Besar2
+    3300262: Lukisa.Besar3
+    3300264: Lukisan.Besar
+    3300266: Lukisan.Kecil
+    3300268: Lukisan.Kecil2
+    3300270: Lukisan.Kecil3
+    3300272: Lukisan.Kecil4
+    3300274: Lukisan.Sedang
+    3300276: Lukisan.Sedang2
+    3300278: Lukisan.Sedang3
+    3300280: Mandi.ky.Atas
+    3300282: Mandi.Ky.Ortu
+    3300284: Mandi.Ky.Santai
+    3300286: Mandi.P.Atas
+    3300288: Mandi.P.Ortu
+    3300290: Mandi.P.Santai
+    3300292: Meja Belajar
+    3300294: Meja.Belajar
+    3300296: Meja.Dapur
+    3300298: Meja.Lampu
+    3300300: Meja.Lampu2
+    3300302: Meja.Makan
+    3300304: Meja.Santai
+    3300306: Meja.Tamu.B
+    3300308: Meja.Tamu.K
+    3300310: Meja.Tv
+    3300312: Mentega
+    3300314: Mobil
+    3300316: Obeng
+    3300318: Obeng2
+    3300320: Oli
+    3300322: Ortu.K
+    3300324: Ortu.P
+    3300326: Oven
+    3300328: Pagar.Atap
+    3300330: Pagar.Atap.Tangga
+    3300332: Pagar.Kayu.Luar
+    3300334: Pagar.Luar
+    3300336: PagarTangga.Atas
+    3300338: PagarTangga.B
+    3300340: Palu
+    3300342: Pensil
+    3300344: Perosotan
+    3300346: Piala
+    3300348: Pin.Ban1
+    3300350: Pin.Ban2
+    3300352: Pin.Ban3
+    3300354: Pin.Ban4
+    3300356: Pin.Kunci.Inggris1
+    3300358: Pin.Kunci.Inggris2
+    3300360: Pin.Kunci.Inggris3
+    3300362: Pin.Palu
+    3300364: Pin.Palu2
+    3300366: Pintu.K.B.L
+    3300368: Pintu.K.B.R
+    3300370: Pintu.K.Krg.L
+    3300372: Pintu.K.Krg.R
+    3300374: Pintu.Kc.C.L
+    3300376: Pintu.Kc.C.R
+    3300378: Pintu.Kc.D.L
+    3300380: Pintu.Kc.D.R
+    3300382: Pintu.Ky.Blkng
+    3300384: Pintu.Ky.Cucian
+    3300386: Pintu.Ky.Depan
+    3300388: Pintu.Ky.Keluarga
+    3300390: Pintu.Lemari.Ikan.L
+    3300392: Pintu.Lemari.Ikan.R
+    3300394: Pintu.Luar
+    3300396: Pintu.Mobil
+    3300398: Pintu.Mobil2
+    3300400: Piring
+    3300402: Pot.Baseball
+    3300404: Pot.Bunga
+    3300406: Pot.Bunga2
+    3300408: Pot.Bunga3
+    3300410: Pot.Payung
+    3300412: Radio
+    3300414: Ruang.KM
+    3300416: Ruang.KM.Kaca
+    3300418: Sendok
+    3300420: Sendok2
+    3300422: Sendok3
+    3300424: Sepatu
+    3300426: Sepatu Basket
+    3300428: Seragam.Sekolah
+    3300430: Shower.Mandi
+    3300432: Stir
+    3300434: Tamu.K
+    3300436: Tamu.P
+    3300438: Tanah
+    3300440: Tangga 1
+    3300442: Tangga 2
+    3300444: Tangga.Blkng
+    3300446: Tas
+    3300448: Telur1
+    3300450: Telur2
+    3300452: Telur3
+    3300454: Telur4
+    3300456: Telur5
+    3300458: Tempat.Baut
+    3300460: Tempat.Sendok
+    3300462: Tepungterigu
+    3300464: TexturesCom_Branches0010_1_alphamasked_S.000
+    3300466: TexturesCom_Branches0010_1_alphamasked_S.001
+    3300468: TexturesCom_Branches0010_1_alphamasked_S.002
+    3300470: TexturesCom_Branches0013_1_alphamasked_S.000
+    3300472: TexturesCom_Branches0013_1_alphamasked_S.002
+    3300474: Tirai.Mandi
+    3300476: Tv
+    3300478: Wadah.Cermin.Mandi
+    3300480: Wadah.Telur
+    3300482: Wastafel
+    3300484: Wc
+    3300486: Wc2
+    4300000: Tanah
+    4300002: Pagar.Kayu.Luar
+    4300004: Pintu.Luar
+    4300006: Pagar.Luar
+    4300008: Kolam
+    4300010: Batu.Pijak
+    4300012: Kolam.Air
+    4300014: Lantai 1
+    4300016: Karpet.Ortu
+    4300018: Akuarium
+    4300020: Pintu.Lemari.Ikan.R
+    4300022: Pintu.Lemari.Ikan.L
+    4300024: Lemari.Ikan
+    4300026: Jam2
+    4300028: Jam
+    4300030: Lukisa.Besar3
+    4300032: Lukisan.Sedang3
+    4300034: Lukisan.Kecil4
+    4300036: Lukisan.Sedang2
+    4300038: Lukisan.Sedang
+    4300040: Lukisan.Kecil
+    4300042: Lukisan.Kecil3
+    4300044: Lukisan.Kecil2
+    4300046: Lukisa.Besar2
+    4300048: Pot.Bunga3
+    4300050: Pintu.Ky.Blkng
+    4300052: Pot.Baseball
+    4300054: Tamu.K
+    4300056: Pot.Payung
+    4300058: Pot.Bunga
+    4300060: Pot.Bunga2
+    4300062: Pintu.Ky.Depan
+    4300064: Tamu.P
+    4300066: Tangga 1
+    4300068: Tangga 2
+    4300070: Tangga.Blkng
+    4300072: TexturesCom_Branches0010_1_alphamasked_S.000
+    4300074: TexturesCom_Branches0010_1_alphamasked_S.001
+    4300076: TexturesCom_Branches0013_1_alphamasked_S.000
+    4300078: TexturesCom_Branches0010_1_alphamasked_S.002
+    4300080: TexturesCom_Branches0013_1_alphamasked_S.002
+    4300082: Tv
+    4300084: Mandi.P.Santai
+    4300086: Meja.Makan
+    4300088: Meja.Santai
+    4300090: Ortu.K
+    4300092: Meja.Tamu.B
+    4300094: Meja.Tamu.K
+    4300096: Meja.Tv
+    4300098: Ortu.P
+    4300100: Perosotan
+    4300102: Pintu.Kc.D.L
+    4300104: Pintu.K.B.R
+    4300106: Pintu.Kc.D.R
+    4300108: Pintu.K.B.L
+    4300110: PagarTangga.B
+    4300112: Mandi.P.Ortu
+    4300114: Lemari.Santai
+    4300116: Lemari.Tengah
+    4300118: Mandi.Ky.Santai
+    4300120: Lukisan.Besar
+    4300122: Mandi.Ky.Ortu
+    4300124: Kursi.Tamu.1
+    4300126: Kursi.Makan3
+    4300128: Kursi.Makan4
+    4300130: Kursi.Makan5
+    4300132: Kursi.Makan2
+    4300134: Kursi.Tamu.3
+    4300136: Kursi.Makan6
+    4300138: Kursi.Tamu
+    4300140: Kursi.Sofa
+    4300142: Kursi.Tamu.2
+    4300144: Kursi.Sofa2
+    4300146: Kursi.Sofa3
+    4300148: Kursi.Tamu.2K
+    4300150: Kursi.Taman
+    4300152: Kursi.Makan1
+    4300154: Karpet.Tv
+    4300156: Karpet.Santai
+    4300158: Jungkat
+    4300160: Karpet.Makan
+    4300162: Jendela.Ky.Ortu
+    4300164: Jendela.Ky.M2
+    4300166: Jendela.Ky.M
+    4300168: Jendela.Ky.Garasi
+    4300170: Jendela.Kc.Ortu
+    4300172: Jendela.Ky.Dapur
+    4300174: Jendela.Kc.M2
+    4300176: Jendela.Kc.Garasi
+    4300178: Jendela.Kc.M
+    4300180: Jendela.Kc.Dapur
+    4300182: Garasi.K
+    4300184: Gudang.P
+    4300186: Garasi.P
+    4300188: Gudang.K
+    4300190: Dinding.Keramik.Lt1
+    4300192: Dinding.Depan
+    4300194: Denah.Lt1
+    4300196: Bunga.Taman
+    4300198: Buku2
+    4300200: Buku
+    4300202: Bawahan Tangga
+    4300204: Ayunan
+    4300206: Bantal
+    4300208: Buku.Belajar
+    4300210: Buku.Belajar2
+    4300212: Buku.Belajar3
+    4300214: Gelas.Pensil
+    4300216: Hanger
+    4300218: Kasur
+    4300220: Kursi.Belajar
+    4300222: Lampu.Belajar
+    4300224: Lampu.Tidur
+    4300226: Lampu.Tidur2
+    4300228: Lemari.Kamar.B
+    4300230: Lemari.Kamar.K
+    4300232: Meja.Belajar
+    4300234: Meja.Lampu
+    4300236: Meja.Lampu2
+    4300238: Pensil
+    4300240: Garam
+    4300242: Gelas
+    4300244: Gelas2
+    4300246: Gula
+    4300248: Kulkas
+    4300250: Lemari.Dapur
+    4300252: Loyang
+    4300254: Meja.Dapur
+    4300256: Mentega
+    4300258: Oven
+    4300260: Piring
+    4300262: Sendok
+    4300264: Sendok2
+    4300266: Sendok3
+    4300268: Tempat.Sendok
+    4300270: Tepungterigu
+    4300272: Bak.Cuci.Mandi
+    4300274: Bak.Mandi
+    4300276: Cermin.Mandi
+    4300278: Lampu.Mandi
+    4300280: Lampu.mandi2
+    4300282: Shower.Mandi
+    4300284: Tirai.Mandi
+    4300286: Wadah.Cermin.Mandi
+    4300288: Wc
+    4300290: Wadah.Telur
+    4300292: Telur1
+    4300294: Telur2
+    4300296: Telur3
+    4300298: Telur4
+    4300300: Telur5
+    4300302: Mobil
+    4300304: Interior.Mobil
+    4300306: Kaca.Mobil.Belakang
+    4300308: Kaca.Mobil.Depan
+    4300310: Kaca.Mobil.Samping
+    4300312: Lampu.Mobil.Belakang
+    4300314: Lampu.Mobil.Depan
+    4300316: Pintu.Mobil
+    4300318: Kaca.Mobil.Kiri
+    4300320: Pintu.Mobil2
+    4300322: Kaca.Mobil.Kanan
+    4300324: Bensin
+    4300326: Aki.Mobil
+    4300328: Ban.Dalam
+    4300330: Ban.Dalam2
+    4300332: Ban.Dalam3
+    4300334: Ban.Dalam4
+    4300336: Ban
+    4300338: Dongkrak
+    4300340: Kain.Lap
+    4300342: Kunci.Inggris1
+    4300344: Kunci.Inggris2
+    4300346: Kunci.Inggris3
+    4300348: Kursi.Garasi
+    4300350: Lemari.Garasi.Bawah
+    4300352: Obeng
+    4300354: Obeng2
+    4300356: Oli
+    4300358: Palu
+    4300360: Pin.Ban1
+    4300362: Pin.Ban2
+    4300364: Pin.Ban3
+    4300366: Pin.Ban4
+    4300368: Pin.Kunci.Inggris1
+    4300370: Pin.Kunci.Inggris2
+    4300372: Pin.Kunci.Inggris3
+    4300374: Pin.Palu
+    4300376: Pin.Palu2
+    4300378: Radio
+    4300380: Stir
+    4300382: Tempat.Baut
+    4300384: Baut
+    4300386: Baut2
+    4300388: Sepatu
+    4300390: Tas
+    4300392: Lemari.Garasi.Atas
+    4300394: Cermin.KM
+    4300396: Ruang.KM.Kaca
+    4300398: Ruang.KM
+    4300400: Wastafel
+    4300402: Wc2
+    4300404: Bantal.Ortu
+    4300406: Seragam.Sekolah
+    4300408: Kotak.Pencil
+    4300410: Kursi Belajar
+    4300412: Kotak Pensil
+    4300414: Ipod
+    4300416: Foto
+    4300418: Baju_3
+    4300420: Baju_2
+    4300422: Baju_1
+    4300424: Lemari
+    4300426: Meja Belajar
+    4300428: Piala
+    4300430: Sepatu Basket
+    4300432: Atap Lt 1
+    4300434: Jendela.Kc.Adek
+    4300436: Pagar.Atap.Tangga
+    4300438: Cucian.Ky
+    4300440: Cucian.P
+    4300442: Jendela.Kc.Kk
+    4300444: PagarTangga.Atas
+    4300446: Mandi.ky.Atas
+    4300448: Mandi.P.Atas
+    4300450: Adek.P
+    4300452: Adek.Ky.P
+    4300454: Kakak.Ky.P
+    4300456: Kakak.P
+    4300458: Pintu.K.Krg.L
+    4300460: Pintu.K.Krg.R
+    4300462: Pintu.Ky.Keluarga
+    4300464: Pintu.Ky.Cucian
+    4300466: Pintu.Kc.C.R
+    4300468: Pintu.Kc.C.L
+    4300470: Jendela.Ky.M.001
+    4300472: Jendela.Kc.M3
+    4300474: Jendela.Ky.Adek
+    4300476: Lantai 2
+    4300478: Dinding.Atas
+    4300480: Jendela.Ky.Kk
+    4300482: Pagar.Atap
+    4300484: Denah.Lt2
+    4300486: Atap Lt 2
+    10800000: Hemi
+    10800002: Lamp
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Air
+    second: {fileID: 2100000, guid: a97c07c29897cd340b4e1e47ed5d1bd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Air.Akuarium
+    second: {fileID: 2100000, guid: ed51b665896e696498709576adb01916, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aki.Mobil
+    second: {fileID: 2100000, guid: 3a351cec5b59dc64fb7ce0d046192eb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Akuarium
+    second: {fileID: 2100000, guid: 25c9e3ea461498d4a8d7530833a7c950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Atap.Lt1
+    second: {fileID: 2100000, guid: acbc9f438896dc74e9d4a01abfc1dbea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Atap.Lt2
+    second: {fileID: 2100000, guid: cc087ddbdae5bb94da560d1df7565069, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ayunan
+    second: {fileID: 2100000, guid: 17c72cd80a537214983eed8c416a426a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bak.Cuci.Mandi
+    second: {fileID: 2100000, guid: 4cf24da4a82bea44abd2433c502a9a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bak.Mandi
+    second: {fileID: 2100000, guid: c26b4f2b0e0c8764da2734de7d66ca22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ban
+    second: {fileID: 2100000, guid: f4011676063152547b318646c0c7570f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ban.Dalam
+    second: {fileID: 2100000, guid: 1102ce2a20129ac448c18ce1e932f921, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bantal
+    second: {fileID: 2100000, guid: cd89e416b93726143bcf31e0bcc7fdf0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Batu.Pijak
+    second: {fileID: 2100000, guid: f404168219794bf4ca6521bc5dd9e4e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bensin
+    second: {fileID: 2100000, guid: 7cdb58d9ceaabe041a60203d481fc677, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buku
+    second: {fileID: 2100000, guid: 701d0b18409930e4da496d584f2865fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buku.Belajar
+    second: {fileID: 2100000, guid: 3e9dcfc65e9ab4648a7e45166b844c50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buku.Belajar2
+    second: {fileID: 2100000, guid: 624655f876496084aa1829e4435d90ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buku.Belajar3
+    second: {fileID: 2100000, guid: c9acfc93178f6664291e2972c07ff836, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buku2
+    second: {fileID: 2100000, guid: 44d600d2293869341a99e921f6e4d13d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cermin.Mandi
+    second: {fileID: 2100000, guid: 253202ef4e8f24e4db27aa689edeb4b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cermin.Mandi.001
+    second: {fileID: 2100000, guid: 4bae326164837da48a85d61369edb499, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Denah1
+    second: {fileID: 2100000, guid: 48d72079eb97b884a9acb19bc36d246b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Denah2
+    second: {fileID: 2100000, guid: 60013e5a819643a42b6c7d622d909d09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dinding.Atas
+    second: {fileID: 2100000, guid: b197cb55076494a4cb280b62c6225b7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dinding.Depan
+    second: {fileID: 2100000, guid: 35bdf5d9f8f86004f89df9a34ab82e47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dinding.Keramik
+    second: {fileID: 2100000, guid: 8137bce6ddfb3b04194166a09c0106bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Garam
+    second: {fileID: 2100000, guid: a43bdd445cd51b54a8e20a7c9bb0fdec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gelas
+    second: {fileID: 2100000, guid: a94987040ce1e444d97a239607666f0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gelas.Pensil
+    second: {fileID: 2100000, guid: a0690e8d8a240284a8f7f51a58d97b46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gula
+    second: {fileID: 2100000, guid: e63f676bdf0bbff4686e85bc0848afe7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hanger
+    second: {fileID: 2100000, guid: 20356d49c8510f946a68bf4fd94af06e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior.Mobil
+    second: {fileID: 2100000, guid: 44726bf02181fdc4aa0b8aaf4bf56637, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jam
+    second: {fileID: 2100000, guid: 3241936e94607d04b899d87ed9d8839a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jendela.Dapur
+    second: {fileID: 2100000, guid: 11b1aa24a05f5d4499c40a9cdc4e832b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jendela.Kamar
+    second: {fileID: 2100000, guid: 04e18bfd6bf4b3048a082e7b0659b8c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jendela.Kayu
+    second: {fileID: 2100000, guid: a6962173789ff114c8c0849e96b676eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jendela.Kayu.001
+    second: {fileID: 2100000, guid: d2098371f71e9ad40bd2801e19567db3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jungkat
+    second: {fileID: 2100000, guid: 44bbfafe788576e46a9b6b46cbd1afb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kaca
+    second: {fileID: 2100000, guid: 4363bb6047109804c9010b1138f70360, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kaca.Garasi
+    second: {fileID: 2100000, guid: 7e20ecd037a3ccc4baf23f607d17140a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kaca.Meja
+    second: {fileID: 2100000, guid: e158cc3bdec087e419869a6aab024bd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kaca.Pintu
+    second: {fileID: 2100000, guid: 7c0167bc93a1d684baef64ba97f3b8d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kaca.Tamu.K
+    second: {fileID: 2100000, guid: e4b1ee966f0d3fb4598d21498951208d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kaca.Tempat.Sendok
+    second: {fileID: 2100000, guid: 339358c656e208847bcad6cba239cd3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kain.Lap
+    second: {fileID: 2100000, guid: 4c940753b15a7684e82aa70644c4d489, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Karpet.Ortu
+    second: {fileID: 2100000, guid: 6b1932d5c3633484480565474aba0583, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Karpet.Santai
+    second: {fileID: 2100000, guid: 62ac50780af08f249abafd11a8910e8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kasur
+    second: {fileID: 2100000, guid: 05dd388cedda0b64cad8abbe3f31d7b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kayu
+    second: {fileID: 2100000, guid: 63628abcd1408e64c929dc3d9f2b497b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kayu.001
+    second: {fileID: 2100000, guid: 23cde3693e4c1ef449857620d9ac2d0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kolam
+    second: {fileID: 2100000, guid: b85d8cf03f4accd4db5b65bc56ed3a92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kotak.Pencil
+    second: {fileID: 2100000, guid: 65b868f921547f94a933420ce5e6e8cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kulkas
+    second: {fileID: 2100000, guid: 0852f6e9885b1684eba13f2a15b95c1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kunci.Inggris1
+    second: {fileID: 2100000, guid: 13b728f3da9f2294896c3a777b875ea9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kursi.Belajar
+    second: {fileID: 2100000, guid: 54063ecea009de4498ddefdebc2439ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kursi.Makan
+    second: {fileID: 2100000, guid: 3193d77f6056c824f9fc2b04643ae910, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kursi.Sofa2
+    second: {fileID: 2100000, guid: 2970b8c4ae6591646aadde40cd8c89fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kursi.Sofa3
+    second: {fileID: 2100000, guid: 09fe42c6f568de44fb353eda31964a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kursi.Taman
+    second: {fileID: 2100000, guid: 49af15ccd4ec6454cb4fc70df846a6dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kursi.Tamu
+    second: {fileID: 2100000, guid: 6e8fd5ef720df674a9e551f9002e9805, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kursi.Tamu.1
+    second: {fileID: 2100000, guid: c2e7b299b0a059d479454c853dea1e99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kursi.Tamu.2K
+    second: {fileID: 2100000, guid: d8211f1514d0b5d4186acf1ad8674c67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kursi.Tamu.3
+    second: {fileID: 2100000, guid: 79d623c18dc2c964bbee8852c18a3b65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lampu.Mandi
+    second: {fileID: 2100000, guid: 9efae51b5aa5adb4b888a44affd96d0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lampu.Mandi.Warna
+    second: {fileID: 2100000, guid: ca59aaa8246268c4991ae3ea8248a064, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lampu.Mobil.Belakang
+    second: {fileID: 2100000, guid: 7f391537a7ee3f2458d61a5bd1135a53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lampu.Tidur
+    second: {fileID: 2100000, guid: 42b4cfb92f45223488ebea92b3ab7ac1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lemari.Dapur
+    second: {fileID: 2100000, guid: fe922df0e95cecc46b12cf0207f2fc21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lemari.Garasi.Atas
+    second: {fileID: 2100000, guid: da7f2132c2e0bb34d9893609bde6104c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lemari.Garasi.Bawah
+    second: {fileID: 2100000, guid: 81b281d6d50ee6549a76a1c84d96c2b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lemari.Ikan
+    second: {fileID: 2100000, guid: b1a918c4dc903e0489daf1ece2ee5c72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lemari.Santai
+    second: {fileID: 2100000, guid: 173f55f9504f0e14db75168e862e34cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lemari.Tengah
+    second: {fileID: 2100000, guid: cb491e168bb44d5469ee1f4cdde2956b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Loyang
+    second: {fileID: 2100000, guid: 9828edbd0de4454458ebbc38679c7a72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lt1
+    second: {fileID: 2100000, guid: 833720734e1e6794791933ff47f13d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lt2
+    second: {fileID: 2100000, guid: 10b9fa05f903bfb4d8148aa9766d8f83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lukisa.Besar2
+    second: {fileID: 2100000, guid: bcb9608d734ec444bba19823a1f1f559, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lukisa.Besar3
+    second: {fileID: 2100000, guid: 5f2809141f59d9c48bad276e2c663077, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lukisan.Kecil
+    second: {fileID: 2100000, guid: dff52a0caf6bb26409cdef19d8af4dfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lukisan.Kecil2
+    second: {fileID: 2100000, guid: d23f23528a17d264785d756084f691b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lukisan.Kecil3
+    second: {fileID: 2100000, guid: b74c9265e3a4aff4eafdcb9277067154, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lukisan.Kecil4
+    second: {fileID: 2100000, guid: bf9022344f9d7934d9a9b78dfe4638c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lukisan.Sedang
+    second: {fileID: 2100000, guid: e2ef6696fddafcd4caff0e42400784ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lukisan.Sedang2
+    second: {fileID: 2100000, guid: 1c393a102baa4a349bae788d88051adc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lukisan.Sedang3
+    second: {fileID: 2100000, guid: e412aef98681cab49aa90f6a6ef0765d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: e14b7427c02b9d044a196d07f3cd05b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 995d871d809057544a68d7882313993a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: 7f8c966843381ee4e8f137cb80199500, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 65b868f921547f94a933420ce5e6e8cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: 5c7f3d1825ffb894f9d3e029e461bf33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: d2dcaf86a8116fe4b8eda350fc3ae229, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: 67cae00112286e34994bba04bfb02ec1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: e6246b3db32b49f47bf111cb75fb5241, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {fileID: 2100000, guid: 04ceb159cf04d7d49a1e2b3d115e137c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.013
+    second: {fileID: 2100000, guid: e1803b64ba1e5b54bbae836386fab75a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.014
+    second: {fileID: 2100000, guid: 97366d315a8988e409d2aaada7bcf027, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.015
+    second: {fileID: 2100000, guid: 1cb446c5e66257d449191daddfff7a2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.016
+    second: {fileID: 2100000, guid: 2971d84a4035db94f8714349a4d8c9d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.018
+    second: {fileID: 2100000, guid: 54063ecea009de4498ddefdebc2439ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Meja.Belajar
+    second: {fileID: 2100000, guid: 6f0bf33be7937aa459a423dbed5af5ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Meja.Dapur
+    second: {fileID: 2100000, guid: 5bd11ae3d56551544a93518e1b69bb56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Meja.Lampu
+    second: {fileID: 2100000, guid: c17230da337324143aee0b555eddc729, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Meja.Makan
+    second: {fileID: 2100000, guid: 9c44b33b96f618a47a781529ca11d919, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Meja.Santai
+    second: {fileID: 2100000, guid: 18a794745ea258c4eaffbf0dcbe3a49a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Meja.Tamu.B
+    second: {fileID: 2100000, guid: 93c8e2b83ebdcbf4ca6ae4d8ecb14140, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Meja.Tamu.K
+    second: {fileID: 2100000, guid: 5e2d90990b6c8594c94021935c771fbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Meja.Tv
+    second: {fileID: 2100000, guid: d677dc44cfa58c945a2963eb883da50c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mentega
+    second: {fileID: 2100000, guid: 1982dc9681a29f34e9eb0e93d5940cb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal.Abu
+    second: {fileID: 2100000, guid: 12e25bbba93bcac4a905834ee4b3e78b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 402c7f815624a0d4f89bd4548d98267e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Obeng
+    second: {fileID: 2100000, guid: 4a8c27c396c7d1541825aa3f2284a0a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oli
+    second: {fileID: 2100000, guid: 4d0ab59491f41d245942990aa729add9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oven
+    second: {fileID: 2100000, guid: b1f84ddfd7b7c8a4dba19176fbbed60f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagar.Atap.tangga
+    second: {fileID: 2100000, guid: c8c16c789565bfd41a106b5f50c3a066, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagar.Atas
+    second: {fileID: 2100000, guid: 4d1047dfc7539884a93f9b8d7bdd3328, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagar.Kayu.Luar
+    second: {fileID: 2100000, guid: 174a30372b4bf1b408940c263068ffe8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagar.Luar
+    second: {fileID: 2100000, guid: a5c95cb052930ed46a5353c7bb776e94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pagar.Tangga
+    second: {fileID: 2100000, guid: 17d6dfc3a85b4834fb590295793e13bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palu
+    second: {fileID: 2100000, guid: 3b237de6490d0fa4d9e00e180a350703, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pensil
+    second: {fileID: 2100000, guid: abc6fc673b6f2254297e967d5b8a1509, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Perosotan
+    second: {fileID: 2100000, guid: 28b803213690f1a478bb19315e58a9b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pin
+    second: {fileID: 2100000, guid: a3c01438c7a5fc74aa86aa8e9e7dd373, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pintu
+    second: {fileID: 2100000, guid: dfc0eab11c9e64d45abd7f59f8de9bf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pintu.KM
+    second: {fileID: 2100000, guid: f2979bddf95ff75458054c51b5ab07f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pintu.Kayu
+    second: {fileID: 2100000, guid: 8695c37b0869d6e4db08b9b7284e2608, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pintu.Lemari.Ikan.L
+    second: {fileID: 2100000, guid: 4968310c062919041888baab2c560297, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pintu.Lemari.Ikan.R
+    second: {fileID: 2100000, guid: 2d5a3eb31775107438166db0de8097ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pintu.Luar
+    second: {fileID: 2100000, guid: a134bd403182f004f80922c30b4dcc0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pintu.Mobil
+    second: {fileID: 2100000, guid: 8e84145c862e95c4f8aa93d7e6b6fc28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piring
+    second: {fileID: 2100000, guid: 5d5ac850a80fbcd48aa01dce01ac7557, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pot.Baseball
+    second: {fileID: 2100000, guid: 8c14857b8859dd346a086d82276217b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pot.Bunga
+    second: {fileID: 2100000, guid: 37b0932b7543087499ff1dca19ba302d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pot.Payung
+    second: {fileID: 2100000, guid: ecda819466606fa429562fa576ceeba9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ruang.KM
+    second: {fileID: 2100000, guid: 62954935bffe0c44bb9fa25c8291a807, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sendok
+    second: {fileID: 2100000, guid: c0a1e8895120bb545b07babe1c1fde29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sepatu
+    second: {fileID: 2100000, guid: ab5c0100288a9494298f54934bdd24ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seragam.Sekolah
+    second: {fileID: 2100000, guid: 1cb446c5e66257d449191daddfff7a2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shower.Mandi
+    second: {fileID: 2100000, guid: 37d281b01d730de459d8331b4684982b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stir
+    second: {fileID: 2100000, guid: a3d61e389eba57040be707dca293f94e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Taman
+    second: {fileID: 2100000, guid: 7d7181266776ff544adc3540671c44f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tanah
+    second: {fileID: 2100000, guid: b51546d5989199e4fae59ccec4375277, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tangga
+    second: {fileID: 2100000, guid: e6e47ce99d46fec478ccaaeb4f01c178, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tas
+    second: {fileID: 2100000, guid: f72e6578d4a0fba4f92cd29e93d3ae18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tempat.Baut
+    second: {fileID: 2100000, guid: 02ea8196f27ed8249bee71795d44c65a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tepungterigu
+    second: {fileID: 2100000, guid: 19310d5bf7a8f164883759334f35d8d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Branches0010_1_alphamasked_S
+    second: {fileID: 2100000, guid: 4bf01a2453a602d48a26edb044b0fc3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Branches0013_1_alphamasked_S
+    second: {fileID: 2100000, guid: 606d972925c339b4f8be2982e911c1ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tirai.Mandi,B
+    second: {fileID: 2100000, guid: 16dca18f877ec8a459470a18ab44c9f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tirai.Mandi.G
+    second: {fileID: 2100000, guid: 18b78e3ccc3839b4c8bc20fc192331cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tv
+    second: {fileID: 2100000, guid: 373fa2043be88e742845b755e81df1c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wadah.Cermin.Mandi
+    second: {fileID: 2100000, guid: eff608337ab56d4459ca6e6f9c647f5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wadah.Telur
+    second: {fileID: 2100000, guid: 40d3840bd93c0b94f88d421b010551de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wc
+    second: {fileID: 2100000, guid: ac65b4d294195f7408d6052b15f2c9c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wc.001
+    second: {fileID: 2100000, guid: a33f188306fd1bb4cbd351f3c37179e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: baut
+    second: {fileID: 2100000, guid: 6f1e2baecea9eb640bb5a4dfa18f1fd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dongkrak
+    second: {fileID: 2100000, guid: a87cbdb2d452ba64cb2c6a241c4025ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kaca.Makan
+    second: {fileID: 2100000, guid: f4c03e64423560d4c830ada3d0486799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kaca.Tamu.B
+    second: {fileID: 2100000, guid: db7428a54f0c4434b8fa8b2c0e781159, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kacamobil
+    second: {fileID: 2100000, guid: b7a0153a1b2e9c74e8cdedb36076dee7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: karpet.Makan
+    second: {fileID: 2100000, guid: 47c559220ce9fa94d8c3e6d26a636795, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lemari.Kamar.B
+    second: {fileID: 2100000, guid: 9c85af9f1f6c7e141a3fef139225ae8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lemari.Kamar.K
+    second: {fileID: 2100000, guid: 9d733668d8f829b4a904cc360f3cb347, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lukisan
+    second: {fileID: 2100000, guid: 2d963a4a13e2d614095e9462426419ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: radio
+    second: {fileID: 2100000, guid: e0c41290f72d1b041b2e951edd2e040f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: telur
+    second: {fileID: 2100000, guid: b437239d28f8dd3489f8429d99600146, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
